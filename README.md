@@ -1,2 +1,2 @@
-# telegram_bot_ETp
-Telegram bot for training English (public version)
+# VerbsiBot_Telegram-API
+Telegram bot for learning irregular verbs and using as a directory
