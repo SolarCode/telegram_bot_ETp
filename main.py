@@ -53,7 +53,7 @@ class BotHandler:
 
 # create object of class BotHandler, in moment of creation happens start method __init__, where we must send token
 # otherwise object won't be create
-greet_bot = BotHandler()
+greet_bot = BotHandler('token')
 
 
 def main():
